@@ -1,0 +1,5 @@
+###### Requirements with version specifiers ######
+
+opencv-python >= 4.5.5.64
+mediapipe >= 0.8.10
+python-osc >= 1.8.0
