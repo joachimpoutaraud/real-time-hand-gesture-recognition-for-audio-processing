@@ -11,14 +11,6 @@ This uses [MediaPipe Hands](https://google.github.io/mediapipe/solutions/hands) 
 <p align="center">
   <img src="https://raw.githubusercontent.com/joachimpoutaraud/real-time-hand-gesture-recognition-for-audio-processing/main/webcam.jpg" width="500" title="Real-Time Hand Gesture Recognition with the computer's webcam"></p>
 
-## Prerequisites
-
-- opencv-python
-- mediapipe
-- python-osc
-
-(see requirements.txt. Install with `pip install -r requirements.txt`)
-
 ## Installation
 
 Download [Anaconda](https://www.anaconda.com/products/distribution) and prepare your environment using the command line
